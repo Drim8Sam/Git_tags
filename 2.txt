@@ -1,2 +1,2 @@
 tags = 2
-f = int(input(''))
+f = int(input('Введите число от 1 до 9: '))
